@@ -1,4 +1,4 @@
-# Transformers Module
+# Oversimplified Transformers Module
 
 This is a transformers module with oversimplified usage for training an text classification problem build upon [Hugging Face Transformers](https://github.com/huggingface/transformers).
 
