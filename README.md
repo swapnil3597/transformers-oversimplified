@@ -1,7 +1,8 @@
 # Transformers Module
 
 This is a transformers module with oversimplified usage for training an text classification problem build upon [Hugging Face Transformers](https://github.com/huggingface/transformers).
-Features:
+
+**Features:**
 - No encoding of sentences is required, directly list of sentences and corresponding labels can form inputs
 - Model can be directly saved as Pytorch model or ONNX graph with simple API and can be directly loaded for inference
 - No need to maintain separate label encoder or tokenizer
